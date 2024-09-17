@@ -1,0 +1,62 @@
++1 (212) 555-1234
+555-555-5555
++44 20 7123 4567
+020 7123 4567
++33 1 23 45 67 89
++33 6 12 34 56 78
++49 30 1234567
++49 151 12345678
++81 3-1234-5678
++81 90-1234-5678
++91 12345 67890
++91 98765 43210
++61 2 1234 5678
++61 3 9876 5432
++55 21 1234 5678
++55 11 98765 4321
++1 (416) 555-1234
+555-555-5555
++39 06 1234567
++39 02 9876543
++7 495 123-45-67
++7 812 123-45-67
++86 10 1234 5678
++86 21 9876 5432
++34 91 123 45 67
++34 93 987 65 43
++51 1 1234567
++51 84 987654
++52 55 1234 5678
++52 33 9876 5432
+Addresses:
+
+123 Main Street, New York, NY, United States
+456 Elm Avenue, Los Angeles, CA, United States
+10 Downing Street, London,  England
+221B Baker Street, London, England
+Rue de Rivoli, Paris, France
+Champs-Élysées, Paris, France
+Alexanderplatz, Berlin, Germany
+Brandenburger Tor, Berlin, Germany
+Tokyo Tower, Minato City, Tokyo, Japan
+Shibuya Crossing, Shibuya, Tokyo, Japan
+Taj Mahal, Agra,
+Gateway of India, Mumbai
+Opera House, Sydney
+Great Barrier Reef, Queensland
+Christ the Redeemer, Rio de Janeiro
+Ipanema Beach, Rio de Janeiro
+CN Tower, Toronto, ON
+Parliament Hill, Ottawa, ON
+Colosseum, Rome
+Grand Canal, Venice
+Red Square, Moscow
+Winter Palace, St. Petersburg
+Forbidden City, Beijing
+The Bund, Shanghai
+Sagrada Familia, Barcelona
+Plaza Mayor, Madrid
+Machu Picchu, Cusco
+Plaza de Armas, Lima
+Chichen Itza, Yucatan
+Zocalo, Mexico City, Mexico

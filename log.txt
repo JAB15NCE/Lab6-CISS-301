@@ -1,0 +1,412 @@
+Feb 19 19:15:01 WorkLabtopJandN CRON[146605]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 19:15:01 WorkLabtopJandN CRON[146605]: pam_unix(cron:session): session closed for user root
+Feb 19 19:17:01 WorkLabtopJandN CRON[146966]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 19:17:01 WorkLabtopJandN CRON[146966]: pam_unix(cron:session): session closed for user root
+Feb 19 19:25:01 WorkLabtopJandN CRON[148400]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 19:25:01 WorkLabtopJandN CRON[148400]: pam_unix(cron:session): session closed for user root
+Feb 19 19:35:01 WorkLabtopJandN CRON[150208]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 19:35:01 WorkLabtopJandN CRON[150208]: pam_unix(cron:session): session closed for user root
+Feb 19 19:45:01 WorkLabtopJandN CRON[152006]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 19:45:01 WorkLabtopJandN CRON[152006]: pam_unix(cron:session): session closed for user root
+Feb 19 19:55:01 WorkLabtopJandN CRON[153799]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 19:55:01 WorkLabtopJandN CRON[153799]: pam_unix(cron:session): session closed for user root
+Feb 19 20:05:01 WorkLabtopJandN CRON[155672]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 20:05:01 WorkLabtopJandN CRON[155672]: pam_unix(cron:session): session closed for user root
+Feb 19 20:15:01 WorkLabtopJandN CRON[157473]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 20:15:01 WorkLabtopJandN CRON[157473]: pam_unix(cron:session): session closed for user root
+Feb 19 20:17:01 WorkLabtopJandN CRON[157837]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 20:17:01 WorkLabtopJandN CRON[157837]: pam_unix(cron:session): session closed for user root
+Feb 19 20:25:01 WorkLabtopJandN CRON[159286]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 20:25:01 WorkLabtopJandN CRON[159286]: pam_unix(cron:session): session closed for user root
+Feb 19 20:35:01 WorkLabtopJandN CRON[161075]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 20:35:01 WorkLabtopJandN CRON[161075]: pam_unix(cron:session): session closed for user root
+Feb 19 20:45:01 WorkLabtopJandN CRON[164008]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 20:45:01 WorkLabtopJandN CRON[164008]: pam_unix(cron:session): session closed for user root
+Feb 19 20:55:01 WorkLabtopJandN CRON[165863]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 20:55:01 WorkLabtopJandN CRON[165863]: pam_unix(cron:session): session closed for user root
+Feb 19 21:05:01 WorkLabtopJandN CRON[167658]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 21:05:01 WorkLabtopJandN CRON[167658]: pam_unix(cron:session): session closed for user root
+Feb 19 21:15:01 WorkLabtopJandN CRON[169447]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 21:15:01 WorkLabtopJandN CRON[169447]: pam_unix(cron:session): session closed for user root
+Feb 19 21:17:01 WorkLabtopJandN CRON[169806]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 21:17:01 WorkLabtopJandN CRON[169806]: pam_unix(cron:session): session closed for user root
+Feb 19 21:25:01 WorkLabtopJandN CRON[171236]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 21:25:01 WorkLabtopJandN CRON[171236]: pam_unix(cron:session): session closed for user root
+Feb 19 21:35:03 WorkLabtopJandN CRON[173476]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 21:35:03 WorkLabtopJandN CRON[173476]: pam_unix(cron:session): session closed for user root
+Feb 19 21:45:04 WorkLabtopJandN CRON[173490]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 21:45:04 WorkLabtopJandN CRON[173490]: pam_unix(cron:session): session closed for user root
+Feb 19 21:55:02 WorkLabtopJandN CRON[173504]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 21:55:02 WorkLabtopJandN CRON[173504]: pam_unix(cron:session): session closed for user root
+Feb 19 22:05:04 WorkLabtopJandN CRON[173518]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 22:05:04 WorkLabtopJandN CRON[173518]: pam_unix(cron:session): session closed for user root
+Feb 19 22:15:06 WorkLabtopJandN CRON[173531]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 22:15:06 WorkLabtopJandN CRON[173531]: pam_unix(cron:session): session closed for user root
+Feb 19 22:17:02 WorkLabtopJandN CRON[173536]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 22:17:02 WorkLabtopJandN CRON[173536]: pam_unix(cron:session): session closed for user root
+Feb 19 22:25:01 WorkLabtopJandN CRON[173548]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 22:25:01 WorkLabtopJandN CRON[173548]: pam_unix(cron:session): session closed for user root
+Feb 19 22:35:03 WorkLabtopJandN CRON[173561]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 22:35:03 WorkLabtopJandN CRON[173561]: pam_unix(cron:session): session closed for user root
+Feb 19 22:45:02 WorkLabtopJandN CRON[173575]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 22:45:02 WorkLabtopJandN CRON[173575]: pam_unix(cron:session): session closed for user root
+Feb 19 22:55:04 WorkLabtopJandN CRON[173589]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 22:55:04 WorkLabtopJandN CRON[173589]: pam_unix(cron:session): session closed for user root
+Feb 19 23:05:03 WorkLabtopJandN CRON[173603]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:05:03 WorkLabtopJandN CRON[173603]: pam_unix(cron:session): session closed for user root
+Feb 19 23:15:02 WorkLabtopJandN CRON[173617]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:15:02 WorkLabtopJandN CRON[173617]: pam_unix(cron:session): session closed for user root
+Feb 19 23:17:01 WorkLabtopJandN CRON[173622]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:17:01 WorkLabtopJandN CRON[173622]: pam_unix(cron:session): session closed for user root
+Feb 19 23:25:02 WorkLabtopJandN CRON[173634]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:25:02 WorkLabtopJandN CRON[173634]: pam_unix(cron:session): session closed for user root
+Feb 19 23:35:04 WorkLabtopJandN CRON[173647]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:35:04 WorkLabtopJandN CRON[173647]: pam_unix(cron:session): session closed for user root
+Feb 19 23:45:02 WorkLabtopJandN CRON[173661]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:45:02 WorkLabtopJandN CRON[173661]: pam_unix(cron:session): session closed for user root
+Feb 19 23:55:01 WorkLabtopJandN CRON[173675]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:55:01 WorkLabtopJandN CRON[173675]: pam_unix(cron:session): session closed for user root
+Feb 19 23:59:02 WorkLabtopJandN CRON[173682]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 19 23:59:02 WorkLabtopJandN CRON[173682]: pam_unix(cron:session): session closed for user root
+Feb 20 00:05:05 WorkLabtopJandN CRON[173701]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 00:05:05 WorkLabtopJandN CRON[173701]: pam_unix(cron:session): session closed for user root
+Feb 20 00:15:06 WorkLabtopJandN CRON[173714]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 00:15:06 WorkLabtopJandN CRON[173714]: pam_unix(cron:session): session closed for user root
+Feb 20 00:17:05 WorkLabtopJandN CRON[173727]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 00:17:05 WorkLabtopJandN CRON[173727]: pam_unix(cron:session): session closed for user root
+Feb 20 00:25:03 WorkLabtopJandN CRON[173739]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 00:25:03 WorkLabtopJandN CRON[173739]: pam_unix(cron:session): session closed for user root
+Feb 20 00:35:05 WorkLabtopJandN CRON[173753]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 00:35:05 WorkLabtopJandN CRON[173753]: pam_unix(cron:session): session closed for user root
+Feb 20 00:45:02 WorkLabtopJandN CRON[173767]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 00:45:02 WorkLabtopJandN CRON[173767]: pam_unix(cron:session): session closed for user root
+Feb 20 00:55:01 WorkLabtopJandN CRON[173780]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 00:55:02 WorkLabtopJandN CRON[173780]: pam_unix(cron:session): session closed for user root
+Feb 20 01:05:01 WorkLabtopJandN CRON[173794]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 01:05:01 WorkLabtopJandN CRON[173794]: pam_unix(cron:session): session closed for user root
+Feb 20 01:15:04 WorkLabtopJandN CRON[173808]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 01:15:04 WorkLabtopJandN CRON[173808]: pam_unix(cron:session): session closed for user root
+Feb 20 01:17:04 WorkLabtopJandN CRON[173813]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 01:17:04 WorkLabtopJandN CRON[173813]: pam_unix(cron:session): session closed for user root
+Feb 20 01:25:02 WorkLabtopJandN CRON[173825]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 01:25:02 WorkLabtopJandN CRON[173825]: pam_unix(cron:session): session closed for user root
+Feb 20 01:35:05 WorkLabtopJandN CRON[173841]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 01:35:05 WorkLabtopJandN CRON[173841]: pam_unix(cron:session): session closed for user root
+Feb 20 01:45:03 WorkLabtopJandN CRON[173855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 01:45:03 WorkLabtopJandN CRON[173855]: pam_unix(cron:session): session closed for user root
+Feb 20 01:55:03 WorkLabtopJandN CRON[173869]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 01:55:03 WorkLabtopJandN CRON[173869]: pam_unix(cron:session): session closed for user root
+Feb 20 02:05:01 WorkLabtopJandN CRON[173882]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 02:05:01 WorkLabtopJandN CRON[173882]: pam_unix(cron:session): session closed for user root
+Feb 20 02:15:03 WorkLabtopJandN CRON[173898]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 02:15:03 WorkLabtopJandN CRON[173898]: pam_unix(cron:session): session closed for user root
+Feb 20 02:17:02 WorkLabtopJandN CRON[173903]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 02:17:02 WorkLabtopJandN CRON[173903]: pam_unix(cron:session): session closed for user root
+Feb 20 02:25:01 WorkLabtopJandN CRON[173915]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 02:25:01 WorkLabtopJandN CRON[173915]: pam_unix(cron:session): session closed for user root
+Feb 20 02:35:01 WorkLabtopJandN CRON[173931]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 02:35:01 WorkLabtopJandN CRON[173931]: pam_unix(cron:session): session closed for user root
+Feb 20 02:45:01 WorkLabtopJandN CRON[173944]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 02:45:01 WorkLabtopJandN CRON[173944]: pam_unix(cron:session): session closed for user root
+Feb 20 02:55:02 WorkLabtopJandN CRON[173958]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 02:55:02 WorkLabtopJandN CRON[173958]: pam_unix(cron:session): session closed for user root
+Feb 20 03:05:01 WorkLabtopJandN CRON[173973]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 03:05:01 WorkLabtopJandN CRON[173973]: pam_unix(cron:session): session closed for user root
+Feb 20 20:35:01 WorkLabtopJandN CRON[175070]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 20 20:35:01 WorkLabtopJandN CRON[175070]: pam_unix(cron:session): session closed for user root
+Feb 21 16:09:44 WorkLabtopJandN systemd-logind[158]: New seat seat0.
+Feb 21 16:09:47 WorkLabtopJandN login[396]: pam_unix(login:session): session opened for user jonnybravo(uid=1000) by (uid=0)
+Feb 21 16:09:47 WorkLabtopJandN systemd-logind[158]: New session 1 of user jonnybravo.
+Feb 21 16:09:47 WorkLabtopJandN systemd: pam_unix(systemd-user:session): session opened for user jonnybravo(uid=1000) by (uid=0)
+Feb 21 16:15:01 WorkLabtopJandN CRON[1428]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 16:15:01 WorkLabtopJandN CRON[1428]: pam_unix(cron:session): session closed for user root
+Feb 21 16:17:01 WorkLabtopJandN CRON[1787]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 16:17:01 WorkLabtopJandN CRON[1787]: pam_unix(cron:session): session closed for user root
+Feb 21 16:25:01 WorkLabtopJandN CRON[3268]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 16:25:01 WorkLabtopJandN CRON[3268]: pam_unix(cron:session): session closed for user root
+Feb 21 16:35:01 WorkLabtopJandN CRON[5026]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 16:35:01 WorkLabtopJandN CRON[5026]: pam_unix(cron:session): session closed for user root
+Feb 21 16:45:01 WorkLabtopJandN CRON[6794]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 16:45:01 WorkLabtopJandN CRON[6794]: pam_unix(cron:session): session closed for user root
+Feb 21 16:55:01 WorkLabtopJandN CRON[8556]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 16:55:01 WorkLabtopJandN CRON[8556]: pam_unix(cron:session): session closed for user root
+Feb 21 17:05:01 WorkLabtopJandN CRON[10538]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 17:05:01 WorkLabtopJandN CRON[10538]: pam_unix(cron:session): session closed for user root
+Feb 21 17:15:01 WorkLabtopJandN CRON[12639]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 17:15:01 WorkLabtopJandN CRON[12639]: pam_unix(cron:session): session closed for user root
+Feb 21 17:17:01 WorkLabtopJandN CRON[12988]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 17:17:01 WorkLabtopJandN CRON[12988]: pam_unix(cron:session): session closed for user root
+Feb 21 17:25:01 WorkLabtopJandN CRON[14390]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 17:25:01 WorkLabtopJandN CRON[14390]: pam_unix(cron:session): session closed for user root
+Feb 21 17:35:01 WorkLabtopJandN CRON[16130]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 17:35:01 WorkLabtopJandN CRON[16130]: pam_unix(cron:session): session closed for user root
+Feb 21 17:45:01 WorkLabtopJandN CRON[17868]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 17:45:01 WorkLabtopJandN CRON[17868]: pam_unix(cron:session): session closed for user root
+Feb 21 17:55:01 WorkLabtopJandN CRON[19600]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 17:55:01 WorkLabtopJandN CRON[19600]: pam_unix(cron:session): session closed for user root
+Feb 21 18:05:01 WorkLabtopJandN CRON[21334]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 18:05:01 WorkLabtopJandN CRON[21334]: pam_unix(cron:session): session closed for user root
+Feb 21 18:15:02 WorkLabtopJandN CRON[23072]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 18:15:02 WorkLabtopJandN CRON[23072]: pam_unix(cron:session): session closed for user root
+Feb 21 18:17:01 WorkLabtopJandN CRON[23421]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 18:17:01 WorkLabtopJandN CRON[23421]: pam_unix(cron:session): session closed for user root
+Feb 21 18:25:01 WorkLabtopJandN CRON[24809]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 18:25:01 WorkLabtopJandN CRON[24809]: pam_unix(cron:session): session closed for user root
+Feb 21 18:35:01 WorkLabtopJandN CRON[26708]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 18:35:01 WorkLabtopJandN CRON[26708]: pam_unix(cron:session): session closed for user root
+Feb 21 18:45:01 WorkLabtopJandN CRON[28532]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 18:45:01 WorkLabtopJandN CRON[28532]: pam_unix(cron:session): session closed for user root
+Feb 21 18:55:01 WorkLabtopJandN CRON[30493]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 18:55:01 WorkLabtopJandN CRON[30493]: pam_unix(cron:session): session closed for user root
+Feb 21 19:05:01 WorkLabtopJandN CRON[32373]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 19:05:01 WorkLabtopJandN CRON[32373]: pam_unix(cron:session): session closed for user root
+Feb 21 19:15:01 WorkLabtopJandN CRON[34465]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 19:15:01 WorkLabtopJandN CRON[34465]: pam_unix(cron:session): session closed for user root
+Feb 21 19:17:02 WorkLabtopJandN CRON[34849]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 19:17:02 WorkLabtopJandN CRON[34849]: pam_unix(cron:session): session closed for user root
+Feb 21 19:25:01 WorkLabtopJandN CRON[36338]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 19:25:01 WorkLabtopJandN CRON[36338]: pam_unix(cron:session): session closed for user root
+Feb 21 19:35:01 WorkLabtopJandN CRON[38185]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 19:35:01 WorkLabtopJandN CRON[38185]: pam_unix(cron:session): session closed for user root
+Feb 21 19:45:01 WorkLabtopJandN CRON[39933]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 19:45:01 WorkLabtopJandN CRON[39933]: pam_unix(cron:session): session closed for user root
+Feb 21 19:55:01 WorkLabtopJandN CRON[41705]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 19:55:01 WorkLabtopJandN CRON[41705]: pam_unix(cron:session): session closed for user root
+Feb 21 20:05:01 WorkLabtopJandN CRON[43491]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 20:05:01 WorkLabtopJandN CRON[43491]: pam_unix(cron:session): session closed for user root
+Feb 21 20:15:01 WorkLabtopJandN CRON[45265]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 20:15:01 WorkLabtopJandN CRON[45265]: pam_unix(cron:session): session closed for user root
+Feb 21 20:17:02 WorkLabtopJandN CRON[45625]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 20:17:02 WorkLabtopJandN CRON[45625]: pam_unix(cron:session): session closed for user root
+Feb 21 20:25:01 WorkLabtopJandN CRON[47034]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 20:25:01 WorkLabtopJandN CRON[47034]: pam_unix(cron:session): session closed for user root
+Feb 21 20:35:02 WorkLabtopJandN CRON[48812]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 20:35:02 WorkLabtopJandN CRON[48812]: pam_unix(cron:session): session closed for user root
+Feb 21 20:45:01 WorkLabtopJandN CRON[50582]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 20:45:01 WorkLabtopJandN CRON[50582]: pam_unix(cron:session): session closed for user root
+Feb 21 20:55:01 WorkLabtopJandN CRON[52344]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 20:55:01 WorkLabtopJandN CRON[52344]: pam_unix(cron:session): session closed for user root
+Feb 21 21:05:02 WorkLabtopJandN CRON[54114]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 21:05:02 WorkLabtopJandN CRON[54114]: pam_unix(cron:session): session closed for user root
+Feb 21 21:15:01 WorkLabtopJandN CRON[55868]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 21:15:01 WorkLabtopJandN CRON[55868]: pam_unix(cron:session): session closed for user root
+Feb 21 21:17:01 WorkLabtopJandN CRON[56227]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 21:17:01 WorkLabtopJandN CRON[56227]: pam_unix(cron:session): session closed for user root
+Feb 21 21:25:01 WorkLabtopJandN CRON[57631]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 21:25:01 WorkLabtopJandN CRON[57631]: pam_unix(cron:session): session closed for user root
+Feb 21 21:35:01 WorkLabtopJandN CRON[59395]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 21:35:01 WorkLabtopJandN CRON[59395]: pam_unix(cron:session): session closed for user root
+Feb 21 21:45:01 WorkLabtopJandN CRON[61146]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 21:45:01 WorkLabtopJandN CRON[61146]: pam_unix(cron:session): session closed for user root
+Feb 21 21:55:01 WorkLabtopJandN CRON[62899]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 21:55:01 WorkLabtopJandN CRON[62899]: pam_unix(cron:session): session closed for user root
+Feb 21 22:05:01 WorkLabtopJandN CRON[64648]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 22:05:01 WorkLabtopJandN CRON[64648]: pam_unix(cron:session): session closed for user root
+Feb 21 22:15:01 WorkLabtopJandN CRON[66417]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 22:15:01 WorkLabtopJandN CRON[66417]: pam_unix(cron:session): session closed for user root
+Feb 21 22:17:01 WorkLabtopJandN CRON[66770]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 22:17:01 WorkLabtopJandN CRON[66770]: pam_unix(cron:session): session closed for user root
+Feb 21 22:25:01 WorkLabtopJandN CRON[68174]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 22:25:02 WorkLabtopJandN CRON[68174]: pam_unix(cron:session): session closed for user root
+Feb 21 22:35:01 WorkLabtopJandN CRON[69924]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 22:35:01 WorkLabtopJandN CRON[69924]: pam_unix(cron:session): session closed for user root
+Feb 21 22:45:01 WorkLabtopJandN CRON[71672]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 22:45:01 WorkLabtopJandN CRON[71672]: pam_unix(cron:session): session closed for user root
+Feb 21 22:55:01 WorkLabtopJandN CRON[73426]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 22:55:01 WorkLabtopJandN CRON[73426]: pam_unix(cron:session): session closed for user root
+Feb 21 23:05:01 WorkLabtopJandN CRON[75168]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:05:01 WorkLabtopJandN CRON[75168]: pam_unix(cron:session): session closed for user root
+Feb 21 23:15:01 WorkLabtopJandN CRON[76922]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:15:01 WorkLabtopJandN CRON[76922]: pam_unix(cron:session): session closed for user root
+Feb 21 23:17:01 WorkLabtopJandN CRON[77275]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:17:01 WorkLabtopJandN CRON[77275]: pam_unix(cron:session): session closed for user root
+Feb 21 23:25:01 WorkLabtopJandN CRON[78679]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:25:01 WorkLabtopJandN CRON[78679]: pam_unix(cron:session): session closed for user root
+Feb 21 23:35:01 WorkLabtopJandN CRON[80574]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:35:01 WorkLabtopJandN CRON[80574]: pam_unix(cron:session): session closed for user root
+Feb 21 23:45:01 WorkLabtopJandN CRON[82364]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:45:01 WorkLabtopJandN CRON[82364]: pam_unix(cron:session): session closed for user root
+Feb 21 23:55:01 WorkLabtopJandN CRON[84539]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:55:01 WorkLabtopJandN CRON[84539]: pam_unix(cron:session): session closed for user root
+Feb 21 23:59:01 WorkLabtopJandN CRON[85440]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 21 23:59:01 WorkLabtopJandN CRON[85440]: pam_unix(cron:session): session closed for user root
+Feb 22 00:05:01 WorkLabtopJandN CRON[86734]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 00:05:01 WorkLabtopJandN CRON[86734]: pam_unix(cron:session): session closed for user root
+Feb 22 00:15:01 WorkLabtopJandN CRON[88488]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 00:15:01 WorkLabtopJandN CRON[88488]: pam_unix(cron:session): session closed for user root
+Feb 22 00:17:01 WorkLabtopJandN CRON[88843]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 00:17:01 WorkLabtopJandN CRON[88843]: pam_unix(cron:session): session closed for user root
+Feb 22 00:25:01 WorkLabtopJandN CRON[90484]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 00:25:01 WorkLabtopJandN CRON[90484]: pam_unix(cron:session): session closed for user root
+Feb 22 00:35:01 WorkLabtopJandN CRON[92238]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 00:35:01 WorkLabtopJandN CRON[92238]: pam_unix(cron:session): session closed for user root
+Feb 22 00:45:01 WorkLabtopJandN CRON[93992]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 00:45:01 WorkLabtopJandN CRON[93992]: pam_unix(cron:session): session closed for user root
+Feb 22 00:55:01 WorkLabtopJandN CRON[95740]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 00:55:01 WorkLabtopJandN CRON[95740]: pam_unix(cron:session): session closed for user root
+Feb 22 01:05:01 WorkLabtopJandN CRON[97681]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 01:05:01 WorkLabtopJandN CRON[97681]: pam_unix(cron:session): session closed for user root
+Feb 22 01:15:01 WorkLabtopJandN CRON[99792]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 01:15:01 WorkLabtopJandN CRON[99792]: pam_unix(cron:session): session closed for user root
+Feb 22 01:17:01 WorkLabtopJandN CRON[100139]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 01:17:01 WorkLabtopJandN CRON[100139]: pam_unix(cron:session): session closed for user root
+Feb 22 01:25:01 WorkLabtopJandN CRON[101545]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 01:25:01 WorkLabtopJandN CRON[101545]: pam_unix(cron:session): session closed for user root
+Feb 22 01:35:02 WorkLabtopJandN CRON[103299]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 01:35:02 WorkLabtopJandN CRON[103299]: pam_unix(cron:session): session closed for user root
+Feb 22 01:45:01 WorkLabtopJandN CRON[105094]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 01:45:01 WorkLabtopJandN CRON[105094]: pam_unix(cron:session): session closed for user root
+Feb 22 01:55:01 WorkLabtopJandN CRON[106848]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 01:55:01 WorkLabtopJandN CRON[106848]: pam_unix(cron:session): session closed for user root
+Feb 22 02:05:01 WorkLabtopJandN CRON[108840]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 02:05:01 WorkLabtopJandN CRON[108840]: pam_unix(cron:session): session closed for user root
+Feb 22 02:15:01 WorkLabtopJandN CRON[112947]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 02:15:01 WorkLabtopJandN CRON[112947]: pam_unix(cron:session): session closed for user root
+Feb 22 02:17:01 WorkLabtopJandN CRON[113684]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 02:17:02 WorkLabtopJandN CRON[113684]: pam_unix(cron:session): session closed for user root
+Feb 22 02:25:01 WorkLabtopJandN CRON[116698]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 02:25:01 WorkLabtopJandN CRON[116698]: pam_unix(cron:session): session closed for user root
+Feb 22 02:35:01 WorkLabtopJandN CRON[120525]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 02:35:01 WorkLabtopJandN CRON[120525]: pam_unix(cron:session): session closed for user root
+Feb 22 02:45:01 WorkLabtopJandN CRON[124462]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 02:45:01 WorkLabtopJandN CRON[124462]: pam_unix(cron:session): session closed for user root
+Feb 22 02:55:01 WorkLabtopJandN CRON[128959]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 02:55:02 WorkLabtopJandN CRON[128959]: pam_unix(cron:session): session closed for user root
+Feb 22 03:05:01 WorkLabtopJandN CRON[132884]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:05:01 WorkLabtopJandN CRON[132884]: pam_unix(cron:session): session closed for user root
+Feb 22 03:10:01 WorkLabtopJandN CRON[134661]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:10:01 WorkLabtopJandN CRON[134661]: pam_unix(cron:session): session closed for user root
+Feb 22 03:15:01 WorkLabtopJandN CRON[136434]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:15:01 WorkLabtopJandN CRON[136434]: pam_unix(cron:session): session closed for user root
+Feb 22 03:17:01 WorkLabtopJandN CRON[137148]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:17:01 WorkLabtopJandN CRON[137148]: pam_unix(cron:session): session closed for user root
+Feb 22 03:25:01 WorkLabtopJandN CRON[140003]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:25:01 WorkLabtopJandN CRON[140003]: pam_unix(cron:session): session closed for user root
+Feb 22 03:35:01 WorkLabtopJandN CRON[143584]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:35:01 WorkLabtopJandN CRON[143584]: pam_unix(cron:session): session closed for user root
+Feb 22 03:45:01 WorkLabtopJandN CRON[147122]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:45:01 WorkLabtopJandN CRON[147122]: pam_unix(cron:session): session closed for user root
+Feb 22 03:55:01 WorkLabtopJandN CRON[150663]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 03:55:01 WorkLabtopJandN CRON[150663]: pam_unix(cron:session): session closed for user root
+Feb 22 04:05:01 WorkLabtopJandN CRON[154214]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 04:05:01 WorkLabtopJandN CRON[154214]: pam_unix(cron:session): session closed for user root
+Feb 22 04:15:01 WorkLabtopJandN CRON[157029]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 04:15:01 WorkLabtopJandN CRON[157029]: pam_unix(cron:session): session closed for user root
+Feb 22 04:17:01 WorkLabtopJandN CRON[157392]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 04:17:01 WorkLabtopJandN CRON[157392]: pam_unix(cron:session): session closed for user root
+Feb 22 04:25:01 WorkLabtopJandN CRON[158825]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 04:25:01 WorkLabtopJandN CRON[158825]: pam_unix(cron:session): session closed for user root
+Feb 22 04:35:01 WorkLabtopJandN CRON[160620]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 04:35:01 WorkLabtopJandN CRON[160620]: pam_unix(cron:session): session closed for user root
+Feb 22 04:45:01 WorkLabtopJandN CRON[162416]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 04:45:01 WorkLabtopJandN CRON[162416]: pam_unix(cron:session): session closed for user root
+Feb 22 04:55:01 WorkLabtopJandN CRON[164221]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 04:55:01 WorkLabtopJandN CRON[164221]: pam_unix(cron:session): session closed for user root
+Feb 22 05:05:01 WorkLabtopJandN CRON[166020]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 05:05:01 WorkLabtopJandN CRON[166020]: pam_unix(cron:session): session closed for user root
+Feb 22 05:15:01 WorkLabtopJandN CRON[167825]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 05:15:01 WorkLabtopJandN CRON[167825]: pam_unix(cron:session): session closed for user root
+Feb 22 05:17:01 WorkLabtopJandN CRON[168186]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 05:17:01 WorkLabtopJandN CRON[168186]: pam_unix(cron:session): session closed for user root
+Feb 22 05:25:01 WorkLabtopJandN CRON[169630]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 05:25:01 WorkLabtopJandN CRON[169630]: pam_unix(cron:session): session closed for user root
+Feb 22 05:35:02 WorkLabtopJandN CRON[174096]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 05:35:02 WorkLabtopJandN CRON[174096]: pam_unix(cron:session): session closed for user root
+Feb 22 05:45:02 WorkLabtopJandN CRON[176001]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 05:45:02 WorkLabtopJandN CRON[176001]: pam_unix(cron:session): session closed for user root
+Feb 22 05:55:01 WorkLabtopJandN CRON[177869]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 05:55:01 WorkLabtopJandN CRON[177869]: pam_unix(cron:session): session closed for user root
+Feb 22 06:05:01 WorkLabtopJandN CRON[179799]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:05:01 WorkLabtopJandN CRON[179799]: pam_unix(cron:session): session closed for user root
+Feb 22 06:15:01 WorkLabtopJandN CRON[181601]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:15:01 WorkLabtopJandN CRON[181601]: pam_unix(cron:session): session closed for user root
+Feb 22 06:17:01 WorkLabtopJandN CRON[181964]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:17:01 WorkLabtopJandN CRON[181964]: pam_unix(cron:session): session closed for user root
+Feb 22 06:25:01 WorkLabtopJandN CRON[183460]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:25:01 WorkLabtopJandN CRON[183459]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:25:01 WorkLabtopJandN CRON[183460]: pam_unix(cron:session): session closed for user root
+Feb 22 06:25:01 WorkLabtopJandN su: (to nobody) root on none
+Feb 22 06:25:01 WorkLabtopJandN su: pam_unix(su:session): session opened for user nobody(uid=65534) by (uid=0)
+Feb 22 06:25:01 WorkLabtopJandN systemd: pam_unix(systemd-user:session): session opened for user nobody(uid=65534) by (uid=0)
+Feb 22 06:25:01 WorkLabtopJandN su: pam_unix(su:session): session closed for user nobody
+Feb 22 06:25:01 WorkLabtopJandN su: (to nobody) root on none
+Feb 22 06:25:01 WorkLabtopJandN su: pam_unix(su:session): session opened for user nobody(uid=65534) by (uid=0)
+Feb 22 06:25:01 WorkLabtopJandN systemd-logind[158]: Existing logind session ID 106 used by new audit session, ignoring.
+Feb 22 06:25:01 WorkLabtopJandN su: pam_unix(su:session): session closed for user nobody
+Feb 22 06:25:01 WorkLabtopJandN su: (to nobody) root on none
+Feb 22 06:25:01 WorkLabtopJandN su: pam_unix(su:session): session opened for user nobody(uid=65534) by (uid=0)
+Feb 22 06:25:01 WorkLabtopJandN systemd-logind[158]: Existing logind session ID 106 used by new audit session, ignoring.
+Feb 22 06:33:08 WorkLabtopJandN su: pam_unix(su:session): session closed for user nobody
+Feb 22 06:33:08 WorkLabtopJandN CRON[183459]: pam_unix(cron:session): session closed for user root
+Feb 22 06:35:01 WorkLabtopJandN CRON[185392]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:35:01 WorkLabtopJandN CRON[185392]: pam_unix(cron:session): session closed for user root
+Feb 22 06:45:01 WorkLabtopJandN CRON[187296]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:45:01 WorkLabtopJandN CRON[187296]: pam_unix(cron:session): session closed for user root
+Feb 22 06:55:02 WorkLabtopJandN CRON[189455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 06:55:02 WorkLabtopJandN CRON[189455]: pam_unix(cron:session): session closed for user root
+Feb 22 07:05:01 WorkLabtopJandN CRON[191335]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 07:05:01 WorkLabtopJandN CRON[191335]: pam_unix(cron:session): session closed for user root
+Feb 22 07:15:01 WorkLabtopJandN CRON[193679]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 07:15:01 WorkLabtopJandN CRON[193679]: pam_unix(cron:session): session closed for user root
+Feb 22 07:17:01 WorkLabtopJandN CRON[194036]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 07:17:01 WorkLabtopJandN CRON[194036]: pam_unix(cron:session): session closed for user root
+Feb 22 07:25:01 WorkLabtopJandN CRON[195474]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 07:25:01 WorkLabtopJandN CRON[195474]: pam_unix(cron:session): session closed for user root
+Feb 22 07:35:01 WorkLabtopJandN CRON[197266]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 07:35:01 WorkLabtopJandN CRON[197266]: pam_unix(cron:session): session closed for user root
+Feb 22 07:45:01 WorkLabtopJandN CRON[199045]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 07:45:01 WorkLabtopJandN CRON[199045]: pam_unix(cron:session): session closed for user root
+Feb 22 07:55:01 WorkLabtopJandN CRON[200820]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 07:55:01 WorkLabtopJandN CRON[200820]: pam_unix(cron:session): session closed for user root
+Feb 22 08:05:01 WorkLabtopJandN CRON[202605]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 08:05:01 WorkLabtopJandN CRON[202605]: pam_unix(cron:session): session closed for user root
+Feb 22 08:15:01 WorkLabtopJandN CRON[204383]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 08:15:01 WorkLabtopJandN CRON[204383]: pam_unix(cron:session): session closed for user root
+Feb 22 08:17:02 WorkLabtopJandN CRON[204756]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 08:17:02 WorkLabtopJandN CRON[204756]: pam_unix(cron:session): session closed for user root
+Feb 22 08:25:01 WorkLabtopJandN CRON[206210]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 08:25:01 WorkLabtopJandN CRON[206210]: pam_unix(cron:session): session closed for user root
+Feb 22 08:35:01 WorkLabtopJandN CRON[208016]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 08:35:01 WorkLabtopJandN CRON[208016]: pam_unix(cron:session): session closed for user root
+Feb 22 08:45:02 WorkLabtopJandN CRON[209820]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 08:45:02 WorkLabtopJandN CRON[209820]: pam_unix(cron:session): session closed for user root
+Feb 22 08:55:01 WorkLabtopJandN CRON[211616]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 08:55:01 WorkLabtopJandN CRON[211616]: pam_unix(cron:session): session closed for user root
+Feb 22 09:05:01 WorkLabtopJandN CRON[213411]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 09:05:01 WorkLabtopJandN CRON[213411]: pam_unix(cron:session): session closed for user root
+Feb 22 09:15:01 WorkLabtopJandN CRON[215205]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 09:15:01 WorkLabtopJandN CRON[215205]: pam_unix(cron:session): session closed for user root
+Feb 22 09:17:01 WorkLabtopJandN CRON[215976]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 09:17:01 WorkLabtopJandN CRON[215976]: pam_unix(cron:session): session closed for user root
+Feb 22 09:25:01 WorkLabtopJandN CRON[217403]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 09:25:01 WorkLabtopJandN CRON[217403]: pam_unix(cron:session): session closed for user root
+Feb 22 09:35:01 WorkLabtopJandN CRON[219199]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 09:35:01 WorkLabtopJandN CRON[219199]: pam_unix(cron:session): session closed for user root
+Feb 22 09:45:01 WorkLabtopJandN CRON[220996]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 09:45:01 WorkLabtopJandN CRON[220996]: pam_unix(cron:session): session closed for user root
+Feb 22 09:55:01 WorkLabtopJandN CRON[222786]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 09:55:01 WorkLabtopJandN CRON[222786]: pam_unix(cron:session): session closed for user root
+Feb 22 10:05:01 WorkLabtopJandN CRON[224588]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 10:05:01 WorkLabtopJandN CRON[224588]: pam_unix(cron:session): session closed for user root
+Feb 22 10:15:01 WorkLabtopJandN CRON[226361]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 10:15:01 WorkLabtopJandN CRON[226361]: pam_unix(cron:session): session closed for user root
+Feb 22 10:17:01 WorkLabtopJandN CRON[226720]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 10:17:01 WorkLabtopJandN CRON[226720]: pam_unix(cron:session): session closed for user root
+Feb 22 10:25:01 WorkLabtopJandN CRON[228144]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 10:25:01 WorkLabtopJandN CRON[228144]: pam_unix(cron:session): session closed for user root
+Feb 22 10:35:01 WorkLabtopJandN CRON[229921]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 10:35:01 WorkLabtopJandN CRON[229921]: pam_unix(cron:session): session closed for user root
+Feb 22 10:45:01 WorkLabtopJandN CRON[231703]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 10:45:01 WorkLabtopJandN CRON[231703]: pam_unix(cron:session): session closed for user root
+Feb 22 10:55:01 WorkLabtopJandN CRON[233482]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 10:55:01 WorkLabtopJandN CRON[233482]: pam_unix(cron:session): session closed for user root
+Feb 22 11:05:01 WorkLabtopJandN CRON[235249]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 11:05:01 WorkLabtopJandN CRON[235249]: pam_unix(cron:session): session closed for user root
+Feb 22 11:15:01 WorkLabtopJandN CRON[237029]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 11:15:01 WorkLabtopJandN CRON[237029]: pam_unix(cron:session): session closed for user root
+Feb 22 11:17:01 WorkLabtopJandN CRON[237387]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 11:17:01 WorkLabtopJandN CRON[237387]: pam_unix(cron:session): session closed for user root
+Feb 22 11:25:01 WorkLabtopJandN CRON[238815]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 11:25:01 WorkLabtopJandN CRON[238815]: pam_unix(cron:session): session closed for user root
+Feb 22 11:35:01 WorkLabtopJandN CRON[240593]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Feb 22 11:35:01 WorkLabtopJandN CRON[240593]: pam_unix(cron:session): session closed for user root
